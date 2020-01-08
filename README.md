@@ -1,2 +1,2 @@
-# Segmentation and clustering coursera_Capstone
-Capsone project
+# Segmentation and clustering coursera capstone
+Capstone project
